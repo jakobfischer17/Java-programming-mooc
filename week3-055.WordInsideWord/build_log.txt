@@ -64,23 +64,21 @@ deps-jar:
 -compile-depend:
 
 -do-compile:
+    [javac] Compiling 1 source file to C:\Users\fisch\Documents\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-055.WordInsideWord\build\classes
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
+    [javac] 1 warning
 
 -post-compile:
 
 compile:
 
 -pre-pre-compile-test:
-    [mkdir] Created dir: C:\Users\fisch\Documents\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-055.WordInsideWord\build\test\classes
 
 -pre-compile-test:
 
 -compile-test-depend:
 
 -do-compile-test:
-    [javac] Compiling 1 source file to C:\Users\fisch\Documents\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-055.WordInsideWord\build\test\classes
-    [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
-    [javac] 1 warning
-     [copy] Copying 1 file to C:\Users\fisch\Documents\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-055.WordInsideWord\build\test\classes
 
 -post-compile-test:
 
