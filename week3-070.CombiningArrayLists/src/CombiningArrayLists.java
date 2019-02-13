@@ -13,7 +13,7 @@ public class CombiningArrayLists {
         Collections.addAll(list1, 4, 3);
         // A shorthand for:
         // list1.add(4);
-        // list1.add(3);
+        // list1.add(3);y
 
 
         Collections.addAll(list2, 5, 10, 7);
